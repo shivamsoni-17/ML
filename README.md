@@ -8,9 +8,7 @@ KNN
 Logistic Regression
 SVN
 
-
-![output_01](https://github.com/user-attachments/assets/f411b4ac-4689-473e-ac31-a1c9459d4e9a)
-
-
+<img src="https://github.com/user-attachments/assets/f411b4ac-4689-473e-ac31-a1c9459d4e9a" width="550">
+<br>
 
 Author Shivam Soni
