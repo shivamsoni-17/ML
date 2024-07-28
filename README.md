@@ -2,7 +2,7 @@
 
 Create a classification model to predict whether credit risk is good or bad.
 
-The above problem is solved using 3 different data Models
+The above problem is solved using 3 different data Models: 
 - KNN
 - Logistic Regression
 - SVN
